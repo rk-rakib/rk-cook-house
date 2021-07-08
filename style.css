@@ -1,0 +1,59 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 30px;
+}
+span{
+    color: aqua;
+}
+.food-section{
+    display: flex;
+    margin-bottom: 20px;
+}
+.healthy-food{
+    width: 50%;
+    margin: 10px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 5px;
+    border-radius: 5px;
+}
+img{
+    width: 30%;
+    margin: 10% 10%;
+}
+.food-about{
+    background-image: url(images/shapes/7.png);
+    background-position:top;
+    
+}
+.menu h1{
+    text-align: center;
+}
+.menu p{
+    text-align: center;
+}
+.shadw{
+    box-shadow: 20px 20px 10px gray;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.shadw img{
+    width: 80%;
+}
+#full-shadw{
+    box-shadow: 10px 10px 20px green;
+    border-radius: 20px;
+    margin: 20px;
+    padding-left: 30px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
